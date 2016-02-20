@@ -6,5 +6,12 @@
  */
 
 return array(
-
+    'default' => array(
+        'connection'  => array(
+            'dsn'        => 'mysql:host=joins-mysql;dbname=cant_buy_me_love',
+            'username'   => 'root',
+            'password'   => 'root',
+        ),
+        'profiling'  => true,
+    ),
 );
