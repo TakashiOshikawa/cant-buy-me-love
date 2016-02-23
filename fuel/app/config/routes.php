@@ -7,4 +7,6 @@ return array(
 
     'beatles/hello'  => 'beatles/hello',
     'beatles/crypt'  => 'beatles/override_crypt',
+
+	'sound'  => 'sound/index',
 );
